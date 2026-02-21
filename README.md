@@ -27,78 +27,29 @@ Professor: Prof Manas Khan
 Your course is broadly split into three major paradigms: **Statistical Foundations**, **Equilibrium Ensembles**, and **Non-Equilibrium Dynamics**.
 
 **1. Statistical Foundations & Probability**
-
-* **Concepts:** The course starts by building a stochastic toolkit. You define systems using statistical parameters like the mean (1st moment), variance (2nd moment), and standard deviation.
-
-
-* 
-**Time Evolution:** You explore how variables correlate with each other over time using cross-correlation and auto-correlation functions.
-
-
-* 
-**Distributions:** You cover continuous probability distributions, specifically the Uniform, Exponential, Poisson, and Gaussian distributions. You also touch on conditional and joint probability.
-
-
+- **Concepts:** The course starts by building a stochastic toolkit. You define systems using statistical parameters like the mean (1st moment), variance (2nd moment), and standard deviation.
+- **Time Evolution:** You explore how variables correlate with each other over time using cross-correlation and auto-correlation functions.
+- **Distributions:** You cover continuous probability distributions, specifically the Uniform, Exponential, Poisson, and Gaussian distributions. You also touch on conditional and joint probability.
 
 **2. Phase Space & The Microcanonical Ensemble**
-
-* 
-**Concepts:** The physics begins with Phase Space, a -dimensional space mapping the momenta and coordinates of all particles. Liouville's theorem dictates that phase space density is incompressible.
-
-
-* 
-**The Ensemble:** The Microcanonical Ensemble describes completely isolated systems with fixed particle number , volume , and energy .
-
-
-* 
-**Entropy:** Boltzmann's entropy formula  is derived, bridging the number of microstates  to macroscopic thermodynamics.
-
-
+- **Concepts:** The physics begins with Phase Space, a -dimensional space mapping the momenta and coordinates of all particles. Liouville's theorem dictates that phase space density is incompressible.
+- **The Ensemble:** The Microcanonical Ensemble describes completely isolated systems with fixed particle number , volume , and energy .
+- **Entropy:** Boltzmann's entropy formula  is derived, bridging the number of microstates  to macroscopic thermodynamics.
 
 **3. Applications: Ideal Gas & Two-State Systems**
-
-* 
-**Classical Ideal Gas:** You calculate the phase space volume of an ideal gas to derive its equations of state.
-
-
-* 
-**Gibbs Paradox:** The notes detail the Gibbs Paradox, where mixing identical gases incorrectly yields an increase in entropy if particles are assumed distinguishable. This is fixed by inserting a  correction factor for indistinguishable particles.
-
-
-* 
-**Two-State Systems:** By analyzing particles that can only exist in two energy levels, you derive the heat capacity and explore the theoretical existence of negative absolute temperatures.
-
-
+- **Classical Ideal Gas:** You calculate the phase space volume of an ideal gas to derive its equations of state.
+- **Gibbs Paradox:** The notes detail the Gibbs Paradox, where mixing identical gases incorrectly yields an increase in entropy if particles are assumed distinguishable. This is fixed by inserting a  correction factor for indistinguishable particles.
+- **Two-State Systems:** By analyzing particles that can only exist in two energy levels, you derive the heat capacity and explore the theoretical existence of negative absolute temperatures.
 
 **4. Canonical & Grand Canonical Ensembles**
-
-* 
-**Canonical Ensemble:** Instead of an isolated system, you model a system in thermal contact with a heat reservoir at a fixed temperature . The probability of a microstate is governed by the Boltzmann distribution . This ensemble connects directly to the Helmholtz Free Energy () and the Partition Function ().
-
-
-* 
-**Grand Canonical Ensemble:** The system can now exchange both energy and particles with a reservoir, introducing the chemical potential . This connects to the Grand Canonical Potential .
-
-
+- **Canonical Ensemble:** Instead of an isolated system, you model a system in thermal contact with a heat reservoir at a fixed temperature . The probability of a microstate is governed by the Boltzmann distribution . This ensemble connects directly to the Helmholtz Free Energy () and the Partition Function ().
+- **Grand Canonical Ensemble:** The system can now exchange both energy and particles with a reservoir, introducing the chemical potential . This connects to the Grand Canonical Potential .
 
 **5. Non-Equilibrium Dynamics & Stochastic Processes (The Missed Pages)**
-
-* 
-**Random Walks:** The notes introduce the Random Walk (and the "Drunkard's Walk") to model stochastic trajectories. You prove that while the mean displacement is , the root-mean-square displacement scales as  (or ).
-
-
-* 
-**Diffusion Equation:** By taking the continuous limit of the random walk using a Taylor series expansion, the notes derive the Diffusion Equation: .
-
-
-* 
-**Brownian Motion & Drag:** The course introduces Brownian motion, Advection (drift), and Stokes drag on a spherical particle ().
-
-
-* 
-**Equipartition & Time Scales:** The notes conclude with the Equipartition Theorem () and definitions of physical time scales like collision time and Brownian relaxation time.
-
-
+- **Random Walks:** The notes introduce the Random Walk (and the "Drunkard's Walk") to model stochastic trajectories. You prove that while the mean displacement is , the root-mean-square displacement scales as  (or ).
+- **Diffusion Equation:** By taking the continuous limit of the random walk using a Taylor series expansion, the notes derive the Diffusion Equation: .
+- **Brownian Motion & Drag:** The course introduces Brownian motion, Advection (drift), and Stokes drag on a spherical particle ().
+- **Equipartition & Time Scales:** The notes conclude with the Equipartition Theorem () and definitions of physical time scales like collision time and Brownian relaxation time.
 
 ### Strategy for Studying
 
@@ -113,4 +64,3 @@ Your course is broadly split into three major paradigms: **Statistical Foundatio
 **Phase 3: Review and Compress with Kardar**
 * Kardar's Chapter 4 condenses all of classical statistical mechanics into about 20 pages. It is too dense to learn from, but it is the perfect tool to solidify your knowledge once you understand the concepts.
 * Read **Kardar Chapter 4** a few days before your exams to tie everything together.
-
